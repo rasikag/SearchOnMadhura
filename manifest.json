@@ -1,0 +1,10 @@
+{
+  "name": "Search on MaduraOnline",
+  "description": "Base Level Extension for Search on MaduraOnline",
+  "version": "1.0",
+  "manifest_version": 2,
+  "permissions": ["contextMenus"],
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
